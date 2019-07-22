@@ -1,1 +1,2 @@
-Primeira linha, projetado para dar conflito, pois na branch newFeature3 já criei este arquivo contendo uma linha
+Primeira linha, projetado para dar conflito, pois na branch newFeature3 jï¿½ criei este arquivo contendo uma linha
+Primeira linha escrita na feature newFeature3
